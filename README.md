@@ -39,6 +39,11 @@ Não usa frameworks, backend ou banco de dados.
 │   │   └── olhar-de-gratidao.mp3
 │   ├── css
 │   │   └── styles.css
+│   ├── icons
+│   │   ├── apple-touch-icon.png
+│   │   ├── favicon-16.png
+│   │   ├── favicon-32.png
+│   │   └── favicon-48.png
 │   ├── images
 │   │   ├── 30-anos-ejc.jpeg
 │   │   ├── logo-rosario.jpg
