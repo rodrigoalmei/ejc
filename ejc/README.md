@@ -24,6 +24,10 @@ Não há React, Vue, Angular, backend ou banco de dados.
 │   ├── css
 │   │   └── styles.css
 │   ├── images
+│   │   ├── 30-anos-ejc.jpeg
+│   │   ├── logo-rosario.jpg
+│   │   ├── logo-rosario-2.jpeg
+│   │   ├── nossa-senhora-do-rosario.jpg
 │   │   └── santos
 │   │       ├── carlo-acutis.png
 │   │       ├── chiara-corbella.png
@@ -35,9 +39,12 @@ Não há React, Vue, Angular, backend ou banco de dados.
 │   │       ├── santa-gianna.png
 │   │       └── santa-teresinha.png
 │   └── js
+│       ├── audio.js
 │       ├── main.js
 │       ├── santo-page.js
 │       └── santos.js
+│   └── audio
+│       └── olhar-de-gratidao.mp3
 └── santos
     ├── carlo-acutis.html
     ├── chiara-corbella.html
@@ -77,6 +84,33 @@ santos/chiara-corbella.html
 Como o projeto é estático, basta abrir o arquivo `index.html` no navegador.
 
 Também é possível usar a extensão Live Server do VS Code, se quiser testar com um servidor local.
+
+## Identidade da Paróquia
+
+O site usa materiais visuais da Paróquia Nossa Senhora do Rosário, de Campina Grande:
+
+- logo no cabeçalho;
+- imagem dos 30 anos do EJC na página inicial;
+- imagem de Nossa Senhora do Rosário na seção institucional;
+- links para site, Instagram e YouTube da paróquia.
+
+Links usados:
+
+```text
+https://www.rosario.org.br/
+https://www.instagram.com/paroquiadorosariocg/
+https://www.youtube.com/@Par%C3%B3quiadoRos%C3%A1rio
+```
+
+## Música
+
+O arquivo de música fica em:
+
+```text
+assets/audio/olhar-de-gratidao.mp3
+```
+
+O JavaScript tenta iniciar a música automaticamente em qualquer página. Alguns navegadores bloqueiam áudio automático com som até o usuário interagir com a tela. Quando isso acontecer, o site mostra um botão fixo para tocar ou pausar a música.
 
 ## Como Usar nos QR Codes
 
@@ -197,4 +231,4 @@ Exemplo:
 - O conteúdo foi adaptado para leitura rápida, com linguagem pastoral e voltada para jovens.
 - O site foi pensado para funcionar bem no celular, já que o acesso principal será via QR Code.
 - As páginas não dependem de serviços externos para carregar o conteúdo.
-
+- Desenvolvido por [rodrigoalmei](https://github.com/rodrigoalmei) e [LucasRAlbino](https://github.com/LucasRAlbino).
