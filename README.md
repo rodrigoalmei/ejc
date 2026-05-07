@@ -92,6 +92,8 @@ https://rodrigoalmei.github.io/ejc/santos/sandra-sabattini.html
 https://rodrigoalmei.github.io/ejc/santos/santa-gianna.html
 https://rodrigoalmei.github.io/ejc/santos/guido-schaffer.html
 https://rodrigoalmei.github.io/ejc/santos/chiara-corbella.html
+https://rodrigoalmei.github.io/ejc/santos/sao-jose.html
+https://rodrigoalmei.github.io/ejc/santos/sao-joao-paulo-ii.html
 ```
 
 ## Identidade da Paróquia

@@ -164,5 +164,41 @@ const santos = [
     fontes: [
       { label: "Site oficial - Chiara Corbella Petrillo", url: "https://www.chiaracorbellapetrillo.org/en/the-story-of-chiara/" }
     ]
+  },
+  {
+    slug: "sao-jose",
+    nome: "São José",
+    status: "Santo e padroeiro da Igreja",
+    periodo: "Século I",
+    imagem: "assets/images/santos/sao-jose.jpg",
+    resumo: "Esposo de Maria, pai adotivo de Jesus e guardião da Sagrada Família, São José viveu a santidade no silêncio, no trabalho e na obediência a Deus.",
+    destaque: "Família, trabalho, silêncio",
+    virtudes: ["Fé obediente", "Silêncio interior", "Proteção da família", "Trabalho honesto"],
+    jovem: "São José ensina aos jovens que grandeza não é aparecer, mas ser fiel. Nos Evangelhos, ele não deixa discursos, mas deixa escolhas: acolhe Maria, protege Jesus, trabalha, muda seus planos quando Deus fala e cuida da família com coragem.\n\nSeu exemplo é muito forte para quem está construindo caráter. José mostra que maturidade é assumir responsabilidades, respeitar a vida do outro e obedecer a Deus mesmo quando o caminho não está totalmente claro.\n\nPara a juventude do EJC, ele também ensina a valorizar o trabalho simples, a família, a castidade, a presença discreta e o cuidado com quem Deus confia a nós.",
+    quemFoi: "São José é apresentado nos Evangelhos como esposo da Virgem Maria e pai adotivo de Jesus. Segundo a tradição cristã, era descendente da casa de Davi e viveu em Nazaré, exercendo o ofício de carpinteiro ou trabalhador manual.\n\nQuando soube da gravidez de Maria, José enfrentou uma situação humana difícil. Em vez de agir com dureza, procurou fazer o bem. Depois da mensagem do anjo, acolheu Maria e assumiu a missão de proteger Jesus, inserindo-o legalmente na linhagem de Davi.\n\nJosé aparece nos momentos decisivos da infância de Cristo: o nascimento em Belém, a fuga para o Egito, o retorno a Nazaré e a vida simples da Sagrada Família. A Igreja o venera como modelo de pai, esposo, trabalhador e homem justo. É celebrado em 19 de março e, como São José Operário, em 1º de maio.",
+    frase: "A fé verdadeira também se prova no silêncio fiel.",
+    reflexao: "São José lembra que nem toda santidade faz barulho. Algumas das maiores missões de Deus são vividas na discrição: educar, proteger, trabalhar, perdoar, sustentar e permanecer.\n\nSeu testemunho pergunta a cada jovem: eu quero ser confiável? Deus pode contar comigo quando ninguém está vendo? José ensina que uma vida escondida pode ter valor imenso quando é vivida por amor.",
+    oracao: "São José, guardião da Sagrada Família, ensina-nos a ouvir Deus, proteger quem amamos e viver com fidelidade no trabalho, na família e na fé. Amém.",
+    fontes: [
+      { label: "Wikipédia - São José", url: "https://pt.wikipedia.org/wiki/S%C3%A3o_Jos%C3%A9" }
+    ]
+  },
+  {
+    slug: "sao-joao-paulo-ii",
+    nome: "São João Paulo II",
+    status: "Papa e santo",
+    periodo: "1920-2005",
+    imagem: "assets/images/santos/sao-joao-paulo-ii.jpg",
+    resumo: "Papa que marcou a história da Igreja e falou diretamente ao coração dos jovens, convidando-os a não terem medo de abrir a vida para Cristo.",
+    destaque: "Juventude, coragem, missão",
+    virtudes: ["Coragem apostólica", "Amor aos jovens", "Perdão", "Defesa da vida"],
+    jovem: "São João Paulo II é um dos santos mais ligados à juventude contemporânea. Ele acreditava nos jovens e os chamava a viver uma fé grande, sem mediocridade. A Jornada Mundial da Juventude nasceu de seu desejo de reunir jovens do mundo inteiro em torno de Cristo.\n\nSua mensagem aos jovens era exigente e cheia de esperança: não ter medo, abrir as portas a Cristo, buscar a verdade, defender a vida e colocar os próprios dons a serviço da Igreja e do mundo.\n\nPara o EJC, João Paulo II inspira uma juventude missionária, alegre e corajosa. Ele mostra que seguir Jesus não diminui a vida; pelo contrário, amplia o coração e dá sentido às escolhas.",
+    quemFoi: "Karol Józef Wojtyła nasceu em Wadowice, na Polônia, em 1920. Viveu perdas familiares profundas ainda jovem e atravessou os anos difíceis da Segunda Guerra Mundial e do regime comunista. Trabalhou, estudou, participou de teatro e amadureceu sua vocação sacerdotal em meio a grandes desafios.\n\nFoi ordenado sacerdote em 1946, tornou-se bispo, arcebispo de Cracóvia e cardeal. Em 1978, foi eleito papa, assumindo o nome João Paulo II. Seu pontificado foi um dos mais longos da história recente e teve forte impacto espiritual, cultural e social.\n\nViajou por muitos países, dialogou com povos e religiões, defendeu a dignidade humana, a família, a liberdade religiosa e a vida. Sofreu um atentado em 1981 e depois perdoou o agressor. Morreu em 2005, foi beatificado em 2011 e canonizado em 27 de abril de 2014 pelo Papa Francisco.",
+    frase: "Não tenhais medo! Abri as portas a Cristo.",
+    reflexao: "João Paulo II olhava para os jovens com confiança. Ele não via a juventude como problema, mas como promessa. Seu testemunho convida a não viver uma fé tímida, escondida ou sem compromisso.\n\nA pergunta que ele deixa é direta: de que forma minha vida pode ser resposta a Cristo? A santidade juvenil passa por coragem, oração, verdade, amizade, perdão e missão.",
+    oracao: "São João Paulo II, intercede pelos jovens do EJC. Ensina-nos a não ter medo de seguir Cristo e a colocar nossa vida a serviço do Evangelho. Amém.",
+    fontes: [
+      { label: "Wikipédia - Papa João Paulo II", url: "https://pt.wikipedia.org/wiki/Papa_Jo%C3%A3o_Paulo_II" }
+    ]
   }
 ];
